@@ -1,3 +1,3 @@
 <?php 
-$utm_campaign = "CDISP072015";
+$utm_campaign = "UTM_CAMPAIGN_GOOGLE";
 ?>
